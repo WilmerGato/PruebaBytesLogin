@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "771950497460",
+    "project_id": "login-afd29",
+    "storage_bucket": "login-afd29.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:771950497460:android:40db043947931a603791e1",
+        "android_client_info": {
+          "package_name": "com.wilmer.loginasdf"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsX9Iyoi0W792SoXWg_j5EEoSouEEweO8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
