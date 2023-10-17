@@ -101,6 +101,7 @@
             android:layout_marginTop="32dp"
             android:layout_marginEnd="32dp"
             android:backgroundTint="#2699FB"
+            android:onClick="Ingresar"
             android:text="@string/btnIngresar"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
