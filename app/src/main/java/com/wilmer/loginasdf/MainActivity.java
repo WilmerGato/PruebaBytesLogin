@@ -23,6 +23,7 @@ public class MainActivity extends AppCompatActivity {
     public void Registrar(View view){
         Intent registrar = new Intent(this, RegistoUsuario.class);
         startActivity(registrar);
+       // finish();
     }
 
 }
